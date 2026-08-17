@@ -1,0 +1,12 @@
+# Datos y lakehouse: reproducibles corriendo los scripts, no van a git
+data/
+lakehouse/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor
+.vscode/
+.idea/
